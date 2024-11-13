@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-//import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about1.jpg";
@@ -12,6 +11,17 @@ function About() {
     <Container fluid className="about-section">
       <Particle />
       <Container>
+        {/* Quote Section */}
+        <Row style={{ justifyContent: "center", paddingTop: "20px" }}>
+          <Col md={10} style={{ textAlign: "center" }}>
+            <h2 style={{ color: "rgb(155 126 172)" }}>
+              "The opposite of courage is not cowardice, it is conformity!"
+            </h2>
+            <footer className="blockquote-footer">Rollo May</footer>
+          </Col>
+        </Row>
+
+        {/* Rest of the About Section */}
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
             md={7}
@@ -41,11 +51,9 @@ function About() {
         <Techstack />
 
         <h1 className="project-heading">
-          <strong className="purple">Tools</strong> i <strong className="purple">use</strong>
+          <strong className="purple">Tools</strong> I <strong className="purple">use</strong>
         </h1>
         <Toolstack />
-
-        
       </Container>
     </Container>
   );
