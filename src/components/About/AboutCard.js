@@ -30,7 +30,7 @@ function AboutCard() {
               <ImPointRight /> Playing and developing video games.
             </li>
             <li className="about-activity">
-              <ImPointRight /> I am an avid soccer fan. #Hala Madrid.
+              <ImPointRight /> I am an avid soccer fan. Hala Madrid!
             </li>
             <li className="about-activity">
               <ImPointRight /> I love being up to date on the latest developments in Astrophysics and Quantum Mechanics.
