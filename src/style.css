@@ -741,3 +741,17 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+.hobbies-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+}
+
+.hobbies-list .about-activity {
+  margin-right: 20px; /* Space between each item */
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap; /* Prevents wrapping */
+}
+
