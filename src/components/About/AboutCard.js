@@ -17,15 +17,15 @@ function AboutCard() {
             <br /><br /> {}
             <br /><br /> {}
             I'm currently working as an <span className="purple"> AI developer at The Institute of Fine Arts in New York City </span> where I am developing a state-of-the-art <span className="purple"> AI video translation system in Python and PyTorch, delivering real-time subtitles in 100+ languages at 
-            99.7% accuracy while being 200x faster than traditional methods. </span> This system is being deployed on AWS using Kubernetes for unmatched scalability, compute power, security and fault tolerance.
+            99.7% accuracy while being 200x faster than traditional methods. </span> This system is being deployed on AWS using Kubernetes for unmatched scalability, compute power, security, and fault tolerance.
             <br /><br /> {}
-            I'm currently pursuing my <span className="purple">Master's in Computer Science</span> from <span className="purple">New York University</span>, where I've taken courses like Artificial Intelligence, Machine Learning, Data Structures and Algorithms, Data Science, Database Management Systems, Operating Systems and Big Data.
+            I'm currently pursuing my <span className="purple">Master's in Computer Science</span> from <span className="purple">New York University</span>, where I've taken courses like Artificial Intelligence, Machine Learning, Data Structures and Algorithms, Data Science, Database Management Systems, Operating Systems, and Big Data.
             <br /><br /> {}
             I have also completed my <span className="purple">Bachelor's in Computer Engineering</span> from <span className="purple">Mumbai University</span>, India.
             <br /><br /> {}
             Apart from coding, my other hobbies are:
           </p>
-          <ul>
+          <ul className="hobbies-list">
             <li className="about-activity">
               <ImPointRight /> Playing and developing video games.
             </li>
@@ -33,10 +33,10 @@ function AboutCard() {
               <ImPointRight /> I am an avid soccer fan. #Hala Madrid. 
             </li>
             <li className="about-activity">
-              <ImPointRight /> I love being up to date on the latest developments in Astrophysiscs and Quantum Mechanics.
+              <ImPointRight /> I love being up to date on the latest developments in Astrophysics and Quantum Mechanics.
             </li>
             <li className="about-activity">
-              <ImPointRight /> I am big cinema nerd and love binging on movies by Quentin Tarantino, Stanley Kubrick, Orson Welles, Martin Scorsese and Christopher Nolan.
+              <ImPointRight /> I am a big cinema nerd and love binging on movies by Quentin Tarantino, Stanley Kubrick, Orson Welles, Martin Scorsese, and Christopher Nolan.
             </li>
           </ul>
           <br /> 
