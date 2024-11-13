@@ -8,8 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            <span className="purple">Well, if I knew who I was and what I wanted to do, my therapist wouldn't be a 
-              millionaire now, would they?</span>
+            <span className="purple">Well, if I knew who I was and what I wanted to do, my therapist would be unemployed</span>
             <br /><br /> {}
             Anyways, I am <span className="purple">Aaryan Mehta </span>
             from <span className="purple"> Brooklyn, New York, NY.</span>
@@ -29,10 +28,13 @@ function AboutCard() {
               <ImPointRight /> Playing and developing video games.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Following and playing soccer. #Hala Madrid.
+              <ImPointRight /> I am an avid soccer fan. #Hala Madrid. 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Exploring the depths of hip-hop music.
+              <ImPointRight /> I love being up to date on the latest developments in Astrophysiscs and Quantum Mechanics.
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> I am big cinema nerd and love binging on movies by Quentin Tarantino, Stanley Kubrick, Orson Welles, Martin Scorsese and Christopher Nolan.
             </li>
           </ul>
           <br /> 
