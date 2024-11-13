@@ -8,12 +8,17 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            <span className="purple">Well, if I knew who I was and what I wanted to do, my therapist would be unemployed</span>
+            <span className="purple">Well, if I knew who I was and what I wanted to do, my therapist would be unemployed.</span>
             <br /><br /> {}
             Anyways, I am <span className="purple">Aaryan Mehta </span>
-            from <span className="purple"> Brooklyn, New York, NY.</span>
+            from <span className="purple"> Brooklyn, New York.</span>
             <br /><br /> {}
             A substantial portion of my technical skill set is dedicated to developing innovative applications with <span className="purple">Artificial Intelligence and Machine Learning.</span> 
+            <br /><br /> {}
+            <br /><br /> {}
+            I'm currently working as an AI developer at The Institute of Fine Arts in New York City where my primary duty is to develop a state-of-the-art live video multi-language subtitle generation system. This system is mainly powered by  my <span className="purple">Master's in Computer Science</span> from <span className="purple">New York University</span>, where I've taken courses like 
+            Artificial Intelligence, Machine Learning, Data Structures and Algorithms, Data Science, Database Management Systems, 
+            Operating Systems and Big Data.
             <br /><br /> {}
             I'm currently pursuing my <span className="purple">Master's in Computer Science</span> from <span className="purple">New York University</span>, where I've taken courses like 
             Artificial Intelligence, Machine Learning, Data Structures and Algorithms, Data Science, Database Management Systems, 
