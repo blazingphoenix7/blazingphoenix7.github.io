@@ -8,6 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
+          <p style={{ color: "rgb(155 126 172)" }}>
+            "The opposite of courage is not cowardice, it is conformity!"
+          </p>
+          <footer className="blockquote-footer">Rollo May</footer>
             <span className="purple">Well, if I knew who I was and what I wanted to do, my therapist would be unemployed.</span>
             <br /><br /> {}
             Anyways, I am <span className="purple">Aaryan Mehta </span>
@@ -44,10 +48,6 @@ function AboutCard() {
             </li>
           </ul>
           <br /> 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "The opposite of courage is not cowardice, it is conformity!"
-          </p>
-          <footer className="blockquote-footer">Rollo May</footer>
         </blockquote>
       </Card.Body>
     </Card>
