@@ -754,4 +754,14 @@ button:focus {
   align-items: center;
   white-space: nowrap; /* Prevents wrapping */
 }
+.hobbies-list .about-activity {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 20px; /* Space between each item */
+  padding-left: 5px; /* Space between bullet point and the text */
+}
+
+.hobbies-list .about-activity svg {
+  margin-right: 10px; /* Space between the icon and the text */
+}
 
