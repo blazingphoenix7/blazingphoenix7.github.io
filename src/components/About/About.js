@@ -12,12 +12,12 @@ function About() {
       <Particle />
       <Container>
         {/* Quote Section */}
-        <Row style={{ justifyContent: "center", paddingTop: "20px" }}>
+        <Row style={{ justifyContent: "center", paddingTop: "40px" }}>
           <Col md={10} style={{ textAlign: "center" }}>
-            <h2 style={{ color: "rgb(155 126 172)", fontStyle: "italic" }}>
+            <h2 style={{ color: "#ffffff", fontStyle: "italic" }}>
               "The opposite of courage is not cowardice, it is conformity!"
             </h2>
-            <footer className="blockquote-footer" style={{ marginTop: "10px" }}>
+            <footer className="blockquote-footer" style={{ marginTop: "20px" }}>
               <cite>Rollo May</cite>
             </footer>
           </Col>
