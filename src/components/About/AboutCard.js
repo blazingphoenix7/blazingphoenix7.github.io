@@ -15,7 +15,6 @@ function AboutCard() {
             <br /><br /> {}
             A substantial portion of my technical skill set is dedicated to developing innovative applications with <span className="purple">Artificial Intelligence and Machine Learning.</span> 
             <br /><br /> {}
-            <br /><br /> {}
             I'm currently working as an <span className="purple"> AI developer at The Institute of Fine Arts in New York City </span> where I am developing a state-of-the-art <span className="purple"> AI video translation system in Python and PyTorch, delivering real-time subtitles in 100+ languages at 
             99.7% accuracy while being 200x faster than traditional methods. </span> This system is being deployed on AWS using Kubernetes for unmatched scalability, compute power, security, and fault tolerance.
             <br /><br /> {}
