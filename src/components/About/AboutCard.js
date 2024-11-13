@@ -27,16 +27,16 @@ function AboutCard() {
           </p>
           <ul className="hobbies-list">
             <li className="about-activity">
-              <ImPointRight /> Playing and developing video games.
+              <ImPointRight />   Playing and developing video games.
             </li>
             <li className="about-activity">
-              <ImPointRight /> I am an avid soccer fan. #Hala Madrid. 
+              <ImPointRight />   I am an avid soccer fan. #Hala Madrid. 
             </li>
             <li className="about-activity">
-              <ImPointRight /> I love being up to date on the latest developments in Astrophysics and Quantum Mechanics.
+              <ImPointRight />   I love being up to date on the latest developments in Astrophysics and Quantum Mechanics.
             </li>
             <li className="about-activity">
-              <ImPointRight /> I am a big cinema nerd and love binging on movies by Quentin Tarantino, Stanley Kubrick, Orson Welles, Martin Scorsese, and Christopher Nolan.
+              <ImPointRight />   I am a big cinema nerd and love binging on movies by Quentin Tarantino, Stanley Kubrick, Orson Welles, Martin Scorsese, and Christopher Nolan.
             </li>
           </ul>
           <br /> 
