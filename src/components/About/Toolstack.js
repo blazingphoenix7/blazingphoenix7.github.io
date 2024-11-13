@@ -5,6 +5,7 @@ import {
   SiJupyter,
   SiAnaconda,
   SiJenkins,
+  SiVisualstudiocode,
   SiGooglecloud,
 } from "react-icons/si";
 
@@ -20,8 +21,8 @@ function Toolstack() {
         <div style={{ fontSize: '10px' }}>Jupyter</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiJenkins />
-        <div style={{ fontSize: '10px' }}>Jenkins</div>
+        <SiVisualstudiocode />
+        <div style={{ fontSize: '10px' }}>VSCode</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGooglecloud />
