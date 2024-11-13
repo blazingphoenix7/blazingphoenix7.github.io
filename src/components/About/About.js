@@ -14,10 +14,12 @@ function About() {
         {/* Quote Section */}
         <Row style={{ justifyContent: "center", paddingTop: "20px" }}>
           <Col md={10} style={{ textAlign: "center" }}>
-            <h2 style={{ color: "rgb(155 126 172)" }}>
+            <h2 style={{ color: "rgb(155 126 172)", fontStyle: "italic" }}>
               "The opposite of courage is not cowardice, it is conformity!"
             </h2>
-            <footer className="blockquote-footer">Rollo May</footer>
+            <footer className="blockquote-footer" style={{ marginTop: "10px" }}>
+              <cite>Rollo May</cite>
+            </footer>
           </Col>
         </Row>
 
